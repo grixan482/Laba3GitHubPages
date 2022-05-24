@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #ff78ae;
+  background: rgba(40, 159, 192, 0.4);
 }
   
 .calculator-grid {
